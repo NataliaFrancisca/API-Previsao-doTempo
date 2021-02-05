@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Yusei+Magic&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+ul{
+	list-style: none;
+	text-align: left;
+	font-size: 1.5rem;
+}
+
+label{
+	font-size: 1.5rem;
+}
+
+body{
+	min-height: 100vh;
+	min-width: 90vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.contentEstado{
+	width: 500px;
+	height: 500px;
+	background: rgba(120,144,255,0.5);
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: space-around;
+	border-radius: 8px;
+	box-shadow: -1px 5px 16px 1px grey;
+}
+
+.content-principal{
+	width: 400px;
+	height: 200px;
+	background: rgba(0,0,0,0.3);
+	border-radius: 8px;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: space-around;
+	box-shadow: 1px 4px 10px 1px black;
+}
+
+.informacaoTemp{
+	width: 400px;
+	height: 120px;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.informacaoTemp h1{
+	font-size: 3rem;
+}
+
+.temp{
+	width: 200px;
+	height: 100px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	margin: 5px;
+}
+
+.content-secundario{
+	width: 400px;
+	height: 200px;
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
+	align-items: baseline;
+}
+
+.informacao-secundaria-temp{
+	width: 150px;
+	height: 140px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	margin: 5px
+}
