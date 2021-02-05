@@ -1,4 +1,4 @@
-#Consumindo API de Previsão do Tempo
+# Consumindo API de Previsão do Tempo
 
 Nesta API simples para fim de estudo, consumi a API de previsão do tempo, mostrando as principais informações.
 
@@ -6,7 +6,7 @@ Nesta API simples para fim de estudo, consumi a API de previsão do tempo, mostr
 
 Baseada na aula de [**Consumindo API no Front e no Back-end | CodeDrops #45**](https://www.youtube.com/watch?v=vYlz3SmNXQQ) do Mayk Brito - Rokcetseat.
 
-###Como rodar o projeto:
+### Como rodar o projeto:
 
 1. Fazer um git clone do projeto na sua máquina: `git clone https://github.com/NataliaFrancisca/API-Previsao-doTempo`
 
