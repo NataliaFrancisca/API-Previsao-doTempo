@@ -4,7 +4,7 @@ Nesta API simples para fim de estudo, consumi a API de previsão do tempo, mostr
 
 ![](/public/src/example.png)
 
-Baseada na aula de [**Consumindo API no Front e no Back-end | CodeDrops #45**](https://www.youtube.com/watch?v=vYlz3SmNXQQ) do Mayk Brito - Rokcetseat.
+Baseado na aula de [**Consumindo API no Front e no Back-end | CodeDrops #45**](https://www.youtube.com/watch?v=vYlz3SmNXQQ) do Mayk Brito - Rocketseat.
 
 ### Como rodar o projeto:
 
@@ -16,4 +16,4 @@ Baseada na aula de [**Consumindo API no Front e no Back-end | CodeDrops #45**](h
 
 3. Ainda no prompt de comando, dentro da pasta **Server**; rodar o seguinte comando: `nodemon server.js` ou `node server.js`.
 
-4. Em um novo prompt de comando, entrar dentro da pasta **Public** e rodar o seguinte comando: `npx lite-server index.html`
+4. Em um novo prompt de comando, entrar na pasta **Public** e rodar o seguinte comando: `npx lite-server`
